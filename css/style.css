@@ -1,0 +1,26 @@
+/* All Common CSS */
+*{
+    margin:0;
+    padding: 0;
+    outline: 0;
+}
+a, a:hover{
+    text-decoration: none;
+    display: inline-block;
+}
+ul,ol{
+    list-style: none;
+}
+/* All Common CSS */
+
+.nav-link{
+    padding: 5px 30px !important;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+    color: black;
+}
+
+.nav-link:hover{
+    color: #B88E2F;
+}
